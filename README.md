@@ -20,9 +20,9 @@ Técnico em Desenvolvimento de Sistemas formado pela Etec Fernando Prestes (Soro
 
 Desenvolvimento de um sistema de automação de atendimentos (chatbot) com IA, utilizando NodeJS.
 
-## Metas e Objetivos
+<!--## Metas e Objetivos
 
-Continuar aprimorando habilidades em NodeJS e BackEnd, buscando sempre aprender sobre as últimas tendências tecnológicas.
+Continuar aprimorando habilidades em NodeJS e BackEnd, buscando sempre aprender sobre as últimas tendências tecnológicas. -->
 
 ## Contato
 
