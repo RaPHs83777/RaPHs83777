@@ -9,7 +9,7 @@
 # Raphael | RaPHs
 - 🔰 Desenvolvedor NodeJS
 
-Técnico em Desenvolvimento de Sistemas formado pela Etec Fernando Prestes (Sorocaba) com expertise em BackEnd e NodeJS.
+Técnico em Desenvolvimento de Sistemas formado pela Etec Fernando Prestes (Sorocaba)
 
 ## Habilidades e Áreas de Expertise
 
