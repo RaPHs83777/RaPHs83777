@@ -14,7 +14,8 @@ Técnico em Desenvolvimento de Sistemas formado pela Etec Fernando Prestes (Soro
 ## Habilidades e Áreas de Expertise
 
 - BackEnd Development
-- NodeJS
+- NodeJS + express
+- React / React Native
 
 ## Projeto Recente Destacado
 
